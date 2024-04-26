@@ -1,0 +1,129 @@
+"Rising Sun",Aria Sky,2018,Rock,4.2,800,5000,1000000
+"Echoes of Tomorrow",The Midnight Riders,2020,Electronic,4.5,1200,6000,1500000
+"City Lights",Samantha Rose,2019,Pop,4.0,950,5500,1250000
+"Lost in Time",Neon Dreamers,2021,Indie,4.3,1100,5700,1350000
+"Breaking Waves",The Seabirds,2017,Alternative,4.1,700,4800,900000
+"Fireflies",Lucy Nightingale,2016,Folk,4.4,850,5200,1100000
+"Neon Nights",Electric Pulse,2022,Electronic,4.6,1400,6200,1700000
+"Wildfire",Phoenix Rising,2015,Rock,4.2,750,5000,950000
+"Starlight Serenade",Stella Nova,2018,Pop,4.3,1000,5600,1300000
+"Dreamcatcher",Dreamweavers,2019,Indie,4.5,1250,5900,1400000
+"Midnight Drive",Nightfall Symphony,2020,Electronic,4.4,1350,6100,1600000
+"Sunset Boulevard",Crimson Skyline,2017,Pop,4.1,900,5400,1200000
+"Moonlit Sonata",Luna Melody,2016,Classical,4.6,950,6300,1800000
+"Electric Dreams",Voltage Sparks,2021,Electronic,4.3,1050,5800,1450000
+"Summer Breeze",Ocean Tides,2018,Pop,4.5,1100,6000,1550000
+"Lost Souls",Ghost Echoes,2019,Indie,4.2,950,5700,1300000
+"High Voltage",Thunderstruck,2017,Rock,4.4,850,5900,1150000
+"Whispers in the Wind",Mystic Echo,2016,Alternative,4.0,700,4700,850000
+"Golden Horizon",Aurora Skies,2020,Pop,4.3,1150,5900,1450000
+"Northern Lights",Aurora Borealis,2018,Electronic,4.5,1300,6200,1650000
+"Crystal Dreams",Crystal Waters,2015,Electronic,4.2,800,5300,1000000
+"Stardust Symphony",Galactic Harmony,2019,Pop,4.4,1050,6000,1550000
+"Dancing in the Dark",Nightshade,2017,Indie,4.1,850,5600,1200000
+"Silver Lining",Silver Shadows,2016,Pop,4.3,900,5800,1350000
+"Ocean Dreams",Seaside Serenade,2021,Electronic,4.6,1400,6300,1750000
+"Under the Moonlight",Midnight Muse,2018,Indie,4.2,1000,5900,1400000
+"Echoes of Eternity",Eternal Echo,2019,Electronic,4.5,1200,6100,1600000
+"Rhythms of the Rain",Raindance,2017,Pop,4.3,950,5700,1300000
+"Enchanted Forest",Mystic Woods,2016,Folk,4.1,800,5100,1050000
+"City of Angels",Angelic Voices,2020,Pop,4.4,1100,6000,1550000
+"Neon Dreams",Neon Nights,2018,Electronic,4.6,1250,6200,1650000
+"Starlit Skyline",Stellar Symphony,2019,Pop,4.3,1050,5900,1400000
+"Whispers in the Dark",Shadow Realm,2017,Indie,4.2,900,5700,1250000
+"Electric Blue",Blue Horizon,2016,Electronic,4.5,1000,5900,1350000
+"Sunrise Sonata",Dawn Harmony,2021,Pop,4.4,1150,6000,1500000
+"Moonlit Mirage",Lunar Reflections,2018,Indie,4.3,950,5800,1350000
+"Echoes of Eternity",Eternal Echo,2018,Electronic,4.7,1250,6300,1700000
+"Midnight Magic",Mystic Moonlight,2017,Pop,4.2,1050,5800,1450000
+"Dreamweaver",Dreamcatcher,2016,Indie,4.0,800,5400,1100000
+"Lost Paradise",Paradise Lost,2020,Pop,4.5,1200,6100,1600000
+"Crystal Clear",Clear Skies,2018,Electronic,4.4,1100,6000,1550000
+"Wildflower Waltz",Whispering Meadows,2019,Folk,4.2,1000,5800,1400000
+"Cityscape Serenade",Urban Melodies,2017,Pop,4.3,950,5700,1300000
+"Neon Nightscape",Neon Skies,2016,Electronic,4.6,1250,6200,1650000
+"Starlight Symphony",Celestial Harmony,2021,Pop,4.5,1350,6300,1750000
+"Moonlit Melodies",Midnight Melody,2018,Indie,4.2,1050,5900,1400000
+"Echoes of Destiny",Destiny's Call,2019,Electronic,4.7,1300,6400,1700000
+"Sunset Serenade",Evening Harmony,2017,Pop,4.3,1000,5800,1550000
+"Dreamer's Lullaby",Dreamer's Quest,2016,Indie,4.1,850,5600,1200000
+"Lost in Translation",Lost Horizon,2020,Pop,4.4,1150,6100,1600000
+"Whispering Winds",Breezy Whispers,2018,Folk,4.3,1100,6000,1550000
+"Electric Symphony",Symphonic Spark,2019,Electronic,4.6,1250,6300,1700000
+"Northern Lights",Polar Serenade,2017,Pop,4.5,1050,6000,1450000
+"City Lights",Urban Dreams,2016,Electronic,4.2,950,5800,1300000
+"Midnight Mirage",Shadowy Reflections,2021,Pop,4.4,1200,6200,1650000
+"Crystal Cascade",Cascade Dreams,2018,Electronic,4.3,1150,6000,1600000
+"Whispers in the Rain",Rainy Serenade,2019,Pop,4.6,1300,6400,1750000
+"Neon Nights",Electric Dreams,2017,Electronic,4.5,1100,6100,1550000
+"Starlight Sonata",Starry Nights,2016,Pop,4.2,1000,5900,1350000
+"Moonlit Melodies",Lunar Lullabies,2020,Indie,4.3,1050,6000,1450000
+"Echoes of Eternity",Eternal Echo,2018,Electronic,4.7,1350,6400,1800000
+"Sunset Symphony",Twilight Harmony,2019,Pop,4.5,1450,6500,1900000
+"Dreamscape Serenade",Dreamer's Delight,2017,Indie,4.4,1200,6200,1600000
+"Lost in Time",Timeless Echoes,2016,Pop,4.2,950,5700,1300000
+"Whispers in the Wind",Whispering Willows,2021,Folk,4.5,1200,6100,1650000
+"Electric Dreams",Electric Symphony,2018,Electronic,4.6,1300,6300,1700000
+"Northern Lights",Aurora Borealis,2019,Pop,4.5,1100,6000,1550000
+"City Lights",Urban Beat,2017,Electronic,4.3,1000,5900,1400000
+"Midnight Moonlight",Moonlit Madness,2016,Pop,4.2,950,5800,1350000
+"Crystal Waters",Crystal Clear,2020,Electronic,4.4,1150,6200,1600000
+"Whispers in the Rain",Rainy Day Melodies,2018,Pop,4.6,1250,6400,1750000
+"Neon Nights",Neon Dreams,2019,Electronic,4.5,1300,6300,1800000
+"Starlit Sky",Stellar Dreams,2017,Pop,4.4,1100,6000,1550000
+"Moonlit Melodies",Lunar Serenade,2016,Indie,4.3,1000,5900,1400000
+"Echoes of Eternity",Eternal Echo,2021,Electronic,4.7,1350,6400,1800000
+"Sunset Symphony",Twilight Serenade,2018,Pop,4.5,1400,6500,1900000
+"Dreamscape Delight",Dreamer's Paradise,2019,Indie,4.4,1150,6200,1600000
+"Lost in Time",Timeless Wanderer,2017,Pop,4.2,1000,5900,1400000
+"Whispers in the Wind",Breezy Meadows,2016,Folk,4.5,1050,6000,1500000
+"Sunrise Serenade",Morning Melodies,2022,Pop,4.6,1450,6600,1850000
+"Moonlight Sonata",Nocturnal Notes,2019,Classical,4.8,1600,6800,2000000
+"Electric Symphony",Electric Pulse,2017,Electronic,4.7,1550,6700,1900000
+"Starry Night",Stardust Ensemble,2018,Indie,4.5,1400,6500,1750000
+"Whispers in the Dark",Midnight Whispers,2016,Alternative,4.2,1150,6200,1600000
+"Ocean's Call",Seafarer Serenade,2021,Folk,4.4,1350,6700,1850000
+"City Lights",Urban Beats,2020,Electronic,4.6,1500,6800,1950000
+"Fire and Ice",Frostfall Symphony,2017,Classical,4.9,1650,7000,2100000
+"Neon Dreams",Neon Nights,2018,Electronic,4.6,1450,6600,1850000
+"Midnight Magic",Midnight Melodies,2020,Pop,4.5,1400,6500,1800000
+"Dreamweaver",Dreamcatcher,2019,Indie,4.3,1250,6400,1750000
+"Starlight Serenade",Stella Nova,2016,Pop,4.4,1300,6500,1700000
+"Crystal Dreams",Crystal Waters,2021,Electronic,4.7,1550,6700,1900000
+"Lost Horizon",Paradise Lost,2018,Pop,4.5,1400,6600,1850000
+"Whispers in the Rain",Rainy Serenade,2017,Pop,4.6,1500,6700,1950000
+"Echoes of Eternity",Eternal Echo,2019,Electronic,4.8,1600,6800,2050000
+"Sunset Symphony",Twilight Serenade,2020,Pop,4.7,1550,6700,1900000
+"Moonlit Melodies",Lunar Lullabies,2018,Indie,4.5,1400,6600,1850000
+"City of Stars",Stellar Beats,2016,Electronic,4.4,1350,6500,1800000
+"Whispers in the Wind",Breezy Whispers,2021,Folk,4.6,1500,6700,1950000
+"Electric Dreams",Voltage Sparks,2017,Electronic,4.7,1550,6800,2000000
+"Northern Lights",Aurora Borealis,2019,Pop,4.6,1450,6700,1900000
+"Starlit Sky",Stellar Dreams,2018,Pop,4.5,1400,6600,1850000
+"Moonlit Mirage",Lunar Reflections,2017,Indie,4.4,1350,6500,1800000
+"Crystal Clear",Clear Skies,2016,Electronic,4.3,1300,6400,1750000
+"Sunrise Serenade",Morning Melodies,2018,Pop,4.2,1250,6300,1700000
+"Moonlit Melodies",Nocturnal Notes,2017,Classical,4.5,1400,6500,1800000
+"Electric Symphony",Electric Pulse,2019,Electronic,4.6,1450,6600,1850000
+"Starry Night",Stardust Ensemble,2016,Indie,4.3,1300,6400,1700000
+"Whispers in the Dark",Midnight Whispers,2020,Alternative,4.1,1200,6200,1600000
+"Ocean's Call",Seafarer Serenade,2017,Folk,4.3,1350,6600,1800000
+"City Lights",Urban Beats,2019,Electronic,4.5,1500,6700,1900000
+"Fire and Ice",Frostfall Symphony,2018,Classical,4.8,1600,6800,2000000
+"Neon Dreams",Neon Nights,2016,Electronic,4.4,1400,6500,1750000
+"Midnight Magic",Midnight Melodies,2018,Pop,4.3,1350,6400,1700000
+"Dreamweaver",Dreamcatcher,2020,Indie,4.5,1450,6600,1850000
+"Starlight Serenade",Stella Nova,2017,Pop,4.4,1300,6500,1700000
+"Crystal Dreams",Crystal Waters,2016,Electronic,4.3,1250,6300,1650000
+"Lost Horizon",Paradise Lost,2021,Pop,4.6,1550,6700,1950000
+"Whispers in the Rain",Rainy Serenade,2018,Pop,4.5,1400,6600,1850000
+"Echoes of Eternity",Eternal Echo,2016,Electronic,4.7,1600,6800,2050000
+"Sunset Symphony",Twilight Serenade,2019,Pop,4.6,1500,6700,1900000
+"Moonlit Melodies",Lunar Lullabies,2017,Indie,4.4,1350,6500,1750000
+"City of Stars",Stellar Beats,2020,Electronic,4.6,1550,6700,1950000
+"Whispers in the Wind",Breezy Whispers,2016,Folk,4.5,1450,6600,1850000
+"Electric Dreams",Voltage Sparks,2018,Electronic,4.6,1500,6700,1900000
+"Northern Lights",Aurora Borealis,2017,Pop,4.5,1400,6600,1850000
+"Starlit Sky",Stellar Dreams,2019,Pop,4.4,1350,6500,1750000
+"Moonlit Mirage",Lunar Reflections,2018,Indie,4.3,1300,6400,1700000
+"Crystal Clear",Clear Skies,2017,Electronic,4.2,1250,6300,1650000
